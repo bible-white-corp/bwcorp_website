@@ -1,0 +1,17 @@
+* { -webkit-transition: ease .2s; transition: ease .2s; }
+
+html, body {
+    height: 100%;
+}
+
+#animation_container {
+    height: 100% !important;
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#canvas {
+
+}
